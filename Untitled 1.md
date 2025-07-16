@@ -16,7 +16,4 @@
 
 | dfg| sdf|
 ___
-|sdf |sdf |
-
-
 
