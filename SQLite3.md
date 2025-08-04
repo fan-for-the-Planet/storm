@@ -1,4 +1,4 @@
 
 как безопасно создавать:
 
-with sq.connect("")
+with sq.connect("название БД с расширением .db") as con:
