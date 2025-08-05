@@ -32,7 +32,7 @@ INSERT INTO <table_name>(<column_name1>, <column_name2>, ...) VALUES(<value1>, <
 
 
 
-SELECT col1, col2, ... FROM <table_name>  # можно добавить WHERE age > 20 AND firstname == Игорь OR  sex == female
+SELECT col1, col2, ... FROM <table_name>  # можно добавить WHERE age > 20 AND firstname == 'Игорь' OR  sex == 'female'
 
 перевод:
-ВЫБРАТЬ поле1, поле2, ... ИЗ <название_таблицы>  # ГДЕ возраст > 20 И имя == Игорь ИЛИ пол == женский
+ВЫБРАТЬ поле1, поле2, ... ИЗ <название_таблицы>  # ГДЕ возраст > 20 И имя == 'Игорь' ИЛИ пол == 'женский'
